@@ -39,7 +39,17 @@ In this case study, I work as a junior data analyst on the marketing analytics t
 
 ### **Buisness Task**
 
-Analyze Cyclistic's data to evaluate usage differences between occasional riders and annual members. Based on these findings, make a general recommendation on how these trends might influence Cyclistic's marketing strategy.
+Analyze Cyclistic's data to identify usage differences between casual riders and annual members. Based on these findings, make a general recommendation on how these trends could influence Cyclistic's marketing strategy to convert casual riders into members.
+
+### **Analysis Questions**
+
+Three questions are relevant to the future marketing program:
+1. How does Cyclistic's use differ between annual members and casual riders?
+2. Why should casual riders purchase a Cyclistic annual membership?
+3. How can Cyclistic use digital media to encourage casual riders to join?
+
+Moreno tasked me with answering the first question:
+How does Cyclistic's use differ between annual members and casual riders?
 
 ### **Stakeholder** 
 
