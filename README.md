@@ -23,6 +23,7 @@ In this case study, I work as a junior data analyst on the marketing analytics t
   - [Data Source](#Data-Source)
   - [Confirmation of the ROCCC-Process](#Confirmation-of-the-ROCCC-Process)
 - [Process](#Process)
+  - [Combining the Data](#Combining-the-Data)
 - [Analyze](#Analyze)
 - [Visualize](#Visualize)
 - [Recommendation](#Recommendation-based-on-analysis)
