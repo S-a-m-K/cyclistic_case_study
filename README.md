@@ -1,6 +1,6 @@
 <h1>Google Data Analytics: Cyclistic Case Study</h1> 
 
-Course: [Google Data Analytics Capstone: Complete a Case Study] (https://www.coursera.org/learn/google-data-analytics-capstone)
+Course: [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone)
 
 Course: [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone)
 
