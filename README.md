@@ -114,6 +114,6 @@ Since the data set contains several million rows, it is important to use a platf
 
 ### **Combining the Data**
 
-SQL Query: [Data Combining](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/01.%20Data%20Combining.sql)
+SQL Query: [Data Combining](https://github.com/S-a-m-K/cyclistic_case_study/blob/main/01.%20Data%20Combining.sql)
 5 CSV files are uploaded as tables to the cyclistic_trip_data dataset. Another table named cyclistic_combined_trip_data_01 is created which contains 1,247,820 rows of data for these 5 months.
 
