@@ -16,8 +16,3 @@ UNION ALL
 SELECT *
 FROM `cyclistic-case-study-00.cyclistic_trip_data.cyclistic_trip_data_may_23`
 ;
-
--- count numbers of rows which are 1'247'820
-
-SELECT COUNT(*)
-FROM `cyclistic-case-study-00.cyclistic_trip_data.cyclistic_combined_trip_data_01`;
