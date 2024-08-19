@@ -24,6 +24,9 @@ In this case study, I work as a junior data analyst on the marketing analytics t
   - [Confirmation of the ROCCC-Process](#Confirmation-of-the-ROCCC-Process)
 - [Process](#Process)
   - [Combining the Data](#Combining-the-Data)
+  - [Data Exploration](#Data-Exploration)
+  - [Observations](#Observations)
+- [Data Cleaning](#Data-Cleaning)
 - [Analyze](#Analyze)
 - [Visualize](#Visualize)
 - [Recommendation](#Recommendation-based-on-analysis)
@@ -162,3 +165,6 @@ SQL Query: [Data Exploration](https://github.com/S-a-m-K/cyclistic_case_study/bl
 
 13. How many times members and casuals rent a bike
 <img width="386" alt="image" src="https://github.com/user-attachments/assets/1cd3c501-a96b-4ea0-8032-dd759cfbb0c8">
+
+### Data cleaning
+
