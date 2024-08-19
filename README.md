@@ -2,6 +2,8 @@
 
 Course: [Google Data Analytics Capstone: Complete a Case Study] (https://www.coursera.org/learn/google-data-analytics-capstone)
 
+Course: [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone)
+
 **Author: Samuel Kleger**  
 **Date: 2024-08-16**
 
