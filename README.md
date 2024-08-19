@@ -130,8 +130,35 @@ SQL Query: [Data Exploration](https://github.com/S-a-m-K/cyclistic_case_study/bl
 2. Count number of rows
 <img width="187" alt="image" src="https://github.com/user-attachments/assets/dafa5d7e-75ad-4897-8ed4-132547194edb">
 
-3. checking for numbers of null values and find some in this 4 rows
+3. Checking for numbers of null values and i find some in this 4 rows
 <img width="759" alt="image" src="https://github.com/user-attachments/assets/5ca625f7-0c31-4472-9c7f-9d1a4d1aa5ac">
 
-4. 
+4. Checking for dublicate rows
+<img width="185" alt="image" src="https://github.com/user-attachments/assets/d7b6f8f1-f4f9-43f5-b305-61bdb2fb9d62">
 
+5. Checking if ride_id has a length of 16
+<img width="270" alt="image" src="https://github.com/user-attachments/assets/ec1e68ee-d52a-43f4-a3fa-27a038fce04e">
+
+6. Checking if timestamp values all have the same length
+<img width="270" alt="image" src="https://github.com/user-attachments/assets/214e3ab5-f50a-4381-a602-47f942dffd73">
+
+7. Checking for whitespace and find 161 rows
+<img width="1061" alt="image" src="https://github.com/user-attachments/assets/4076f7f2-f9ab-4fc9-b911-4a7da9d879f3">
+
+8. Count number of trips per bike
+<img width="385" alt="image" src="https://github.com/user-attachments/assets/39138ab1-4d92-4571-b293-d45b7a1cbd20">
+
+9. Total trips that last longer than a day
+<img width="185" alt="image" src="https://github.com/user-attachments/assets/febd5bb0-0b22-4210-8f8f-c089a9f9ed2b">
+
+10. Total trips that last shorter than a minute
+<img width="185" alt="image" src="https://github.com/user-attachments/assets/0ee61cbe-3c4f-4e24-ad20-963b65b1d8f5">
+
+11. Check if how many rows has all location details
+<img width="186" alt="image" src="https://github.com/user-attachments/assets/7dfb2e48-e4db-4d48-9a53-32491a8202de">
+
+12. Which members use which station and how many times
+<img width="585" alt="image" src="https://github.com/user-attachments/assets/cbf4aba7-88b0-4b84-86f9-eadf571a4f10">
+
+13. How many times members and casuals rent a bike
+<img width="386" alt="image" src="https://github.com/user-attachments/assets/1cd3c501-a96b-4ea0-8032-dd759cfbb0c8">
