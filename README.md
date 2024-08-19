@@ -108,3 +108,12 @@ Note, however, that for privacy reasons, you cannot use any of the customers' pe
 </div>
 
 # **Process**
+
+
+Since the data set contains several million rows, it is important to use a platform that supports large amounts of data. For this purpose, I used BigQuery to combine the different data sets and clean them.
+
+### **Combining the Data**
+
+SQL Query: Data Combining
+5 CSV files are uploaded as tables to the cyclistic_trip_data dataset. Another table named cyclistic_combined_trip_data_01 is created which contains 1,247,820 rows of data for these 5 months.
+
