@@ -20,7 +20,7 @@ In this case study, I work as a junior data analyst on the marketing analytics t
   - [Buisness Task](#Buisness-Task)
   - [Analysis Questions](#Analysis-Questions)
 - [Prepare](#Prepare)
-  - [Data Description](#Data-Description)
+  - [Data Source](#Data-Source)
   - [Credibility of the Data](#Credibility-of-the-Data)
   - [Confirmation of the ROCCC-Process](#Confirmation-of-the-ROCCC-Process)
 - [Process](#Process)
