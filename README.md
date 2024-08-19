@@ -2,14 +2,14 @@
 
 Course: [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone)
 
-<div style="margin-bottom: 40px;">
+<div style="margin-bottom: 60px;">
 
 </div>
 
 **Author: Samuel Kleger**  
 **Date: 2024-08-16**
 
-<div style="margin-bottom: 40px;">
+<div style="margin-bottom: 60px;">
 
 </div>
 
