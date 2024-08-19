@@ -170,4 +170,10 @@ SQL Query: [Data Exploration](https://github.com/S-a-m-K/cyclistic_case_study/bl
 
 SQL Query: [Create a clean table](https://github.com/S-a-m-K/cyclistic_case_study/blob/main/03.%20Data%20Cleaning)
 
+- All rows with missing values ​​were deleted
+- New columns were added: day_of_week, month and ride_length
+- Whitespace from start_station_name and end_station_name were deleted
+- Trips that lasted less than one minute or longer than one day were removed
+- A total of 315,415 rows were removed
+
 
