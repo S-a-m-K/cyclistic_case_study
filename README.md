@@ -121,3 +121,9 @@ SQL Query: [Data Combining](https://github.com/S-a-m-K/cyclistic_case_study/blob
 
 ### Data Exploration
 SQL Query: [Data Exploration](https://github.com/S-a-m-K/cyclistic_case_study/blob/main/02.%20Data%20Exploration.sql)  
+
+### Observations:
+
+1. The table below shows all columns
+<img width="461" alt="image" src="https://github.com/user-attachments/assets/4aed62a4-39c4-4512-b037-14eb840db9e7">
+
