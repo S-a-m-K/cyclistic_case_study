@@ -15,6 +15,7 @@ In this case study, I work as a junior data analyst on the marketing analytics t
 
 #### Table of Content
 - [Introduction](#Introduction)
+- [Ask](#Ask)
   - [Buisness Task](#Buisness-Task)
   - [Stakeholder](#Stakeholder)
 - [Prepare](#Prepare)
