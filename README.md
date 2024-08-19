@@ -1,6 +1,6 @@
 <h1>Google Data Analytics: Cyclistic Case Study</h1> 
 
-Course: [https://www.coursera.org/learn/google-data-analytics-capstone](#Google Data Analytics Capstone: Complete a Case Study)
+Course: [https://www.coursera.org/learn/google-data-analytics-capstone] (#Google Data Analytics Capstone: Complete a Case Study)
 
 **Author: Samuel Kleger**  
 **Date: 2024-08-16**
