@@ -176,4 +176,5 @@ SQL Query: [Create a clean table](https://github.com/S-a-m-K/cyclistic_case_stud
 - Trips that lasted less than one minute or longer than one day were removed
 - A total of 315,415 rows were removed
 
+### Analysis
 
