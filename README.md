@@ -68,11 +68,13 @@ How does Cyclistic's use differ between annual members and casual riders?
 # **Prepare**
 
 
+### **Data source**
 
-### **Data Description**
+This is historical trip data from a cycling company. The datasets have a different name because Cyclistic is a fictitious company. The datasets are appropriate for the purposes of this case study and allow you to answer the company-related questions.
 
+This is public data that you can use to find out how different types of customers use Cyclistic's bikes.
 
-There are a total of 65 individual data sources that can be downloaded from divvy_tripdata. I will use Cyclistic's historical trip data to analyze and identify trends from December 2022 to April 2023.
+Note, however, that for privacy reasons, you cannot use any of the customers' personal data. This means that you cannot link single ticket purchases to credit card numbers to determine whether occasional riders live in Cyclistic's catchment area or have purchased multiple single trips.
 
 **Source**: Data provided by Motivate International Inc
 
