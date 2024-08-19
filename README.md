@@ -29,6 +29,10 @@ In this case study, I work as a junior data analyst on the marketing analytics t
 
 ---
 
+# **Ask**
+
+
+
 <div style="margin-bottom: 40px;">
 
 </div>
