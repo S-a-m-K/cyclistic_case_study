@@ -18,7 +18,7 @@ In this case study, I work as a junior data analyst on the marketing analytics t
 - [Ask](#Ask)
   - [Stakeholder](#Stakeholder)
   - [Buisness Task](#Buisness-Task)
-  - [Analysis Questions](#Analysis Questions)
+  - [Analysis Questions](#Analysis-Questions)
 - [Prepare](#Prepare)
   - [Data Description](#Data-Description)
   - [Credibility of the Data](#Credibility-of-the-Data)
