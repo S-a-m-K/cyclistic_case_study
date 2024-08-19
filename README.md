@@ -120,4 +120,4 @@ SQL Query: [Data Combining](https://github.com/S-a-m-K/cyclistic_case_study/blob
 5 CSV files are uploaded as tables to the cyclistic_trip_data dataset. Another table named cyclistic_combined_trip_data_01 is created which contains 1,247,820 rows of data for these 5 months.
 
 ### Data Exploration
-SQL Query: [Data Exploration]()  
+SQL Query: [Data Exploration](https://github.com/S-a-m-K/cyclistic_case_study/blob/main/02.%20Data%20Exploration.sql)  
