@@ -11,7 +11,7 @@ ORDER BY
   ordinal_position;
 
 
--- count numbers of rows which are 1'247'820
+-- count numbers of rows 
 
 SELECT COUNT(*)
 FROM `cyclistic-case-study-00.cyclistic_trip_data.cyclistic_combined_trip_data_01`;
