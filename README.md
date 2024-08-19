@@ -16,8 +16,8 @@ In this case study, I work as a junior data analyst on the marketing analytics t
 #### Table of Content
 - [Introduction](#Introduction)
 - [Ask](#Ask)
-  - [Buisness Task](#Buisness-Task)
   - [Stakeholder](#Stakeholder)
+  - [Buisness Task](#Buisness-Task)
 - [Prepare](#Prepare)
   - [Data Description](#Data-Description)
   - [Credibility of the Data](#Credibility-of-the-Data)
@@ -37,6 +37,19 @@ In this case study, I work as a junior data analyst on the marketing analytics t
 
 </div>
 
+### **Stakeholder** 
+
+
+**Lily Moreno**: Marketing Director - responsible for developing campaigns and initiatives to promote the bike sharing program. This includes email, social media and other channels
+
+**Cyclist Marketing Analytics Team**: Data analysis professionals
+
+**Cyclist Leadership Team**: Decides whether to approve the recommended marketing program
+
+<div style="margin-bottom: 40px;">
+
+</div>
+
 ### **Buisness Task**
 
 Analyze Cyclistic's data to identify usage differences between casual riders and annual members. Based on these findings, make a general recommendation on how these trends could influence Cyclistic's marketing strategy to convert casual riders into members.
@@ -50,19 +63,6 @@ Three questions are relevant to the future marketing program:
 
 Moreno tasked me with answering the first question:
 How does Cyclistic's use differ between annual members and casual riders?
-
-### **Stakeholder** 
-
-
-**Lily Moreno**: Marketing Director - responsible for developing campaigns and initiatives to promote the bike sharing program. This includes email, social media and other channels
-
-**Cyclist Marketing Analytics Team**: Data analysis professionals
-
-**Cyclist Leadership Team**: Decides whether to approve the recommended marketing program
-
-<div style="margin-bottom: 40px;">
-
-</div>
 
 # **Prepare**
 
