@@ -2,10 +2,14 @@
 
 Course: [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone)
 
-Course: [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone)
-
 **Author: Samuel Kleger**  
 **Date: 2024-08-16**
+
+---
+
+# **Introduction**
+
+In this case study, I work as a junior data analyst on the marketing analytics team at Cyclistic, a bike-sharing company in Chicago. Marketing leadership wants to maximize annual memberships, so your team wants to understand the differences in usage between casual riders and annual members. Based on these insights, your team will develop a new marketing strategy to convert casual riders into annual members.
 
 ---
 
@@ -27,10 +31,6 @@ Course: [Google Data Analytics Capstone: Complete a Case Study](https://www.cour
 <div style="margin-bottom: 40px;">
 
 </div>
-
-# **Introduction**
-
-Cyclistic is a bike sharing company in Chicago. Their goal is to increase annual memberships. To achieve their goal, the marketing director and their team want to understand the differences in usage between occasional riders and annual members. Based on this knowledge, their team will develop a new marketing strategy to convert occasional riders into annual members.
 
 ### **Buisness Task**
 
