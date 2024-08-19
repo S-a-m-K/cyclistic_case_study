@@ -58,3 +58,19 @@ CREATE TABLE
     end_lng IS NOT NULL AND
     ride_length > 1 AND ride_length < 1440
 );
+
+-- check how many rows were deleted
+
+SELECT
+  (SELECT COUNT(ride_id) 
+  FROM `cyclistic-case-study-00.cyclistic_trip_data.cyclistic_combined_trip_data_01`
+  ) AS total_rows_original,
+  (SELECT COUNT(ride_id) 
+  FROM `cyclistic-case-study-00.cyclistic_trip_data.cyclistic_combined_trip_data_cleaned_01`
+  ) AS total_rows_original,
+  (SELECT COUNT(ride_id)
+  FROM `cyclistic-case-study-00.cyclistic_trip_data.cyclistic_combined_trip_data_01`
+  ) -
+  (SELECT COUNT(ride_id)
+  FROM `cyclistic-case-study-00.cyclistic_trip_data.cyclistic_combined_trip_data_cleaned_01`
+  ) AS difference;
