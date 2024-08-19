@@ -1,4 +1,4 @@
-/* Combines 5 data tables into a single table from December 2022 to April 2023 */
+-- Combines 5 data tables into a single table from December 2022 to April 2023
 
 CREATE TABLE `cyclistic-case-study-00.cyclistic_trip_data.cyclistic_combined_trip_data_01` AS 
 SELECT *
