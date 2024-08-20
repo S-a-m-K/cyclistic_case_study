@@ -146,7 +146,7 @@ SQL Query: [Data Exploration](https://github.com/S-a-m-K/cyclistic_case_study/bl
 <img width="270" alt="image" src="https://github.com/user-attachments/assets/214e3ab5-f50a-4381-a602-47f942dffd73">
 
 7. Checking for whitespace and find 161 rows
-<img width="1061" alt="image" src="https://github.com/user-attachments/assets/4076f7f2-f9ab-4fc9-b911-4a7da9d879f3">
+<img width="1061" alt="image" src="https://github.com/user-attachments/assets/edb2bb1d-6782-4597-aad7-3c64cf5a2cc3">
 
 8. Count number of trips per bike
 <img width="385" alt="image" src="https://github.com/user-attachments/assets/39138ab1-4d92-4571-b293-d45b7a1cbd20">
