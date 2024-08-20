@@ -178,7 +178,7 @@ SQL Query: [Create a clean table](https://github.com/S-a-m-K/cyclistic_case_stud
 
 ### Analysis
 
-SQL Query: [Data Analysing]()
+SQL Query: [Data Analysing](https://github.com/S-a-m-K/cyclistic_case_study/blob/main/04.%20Data%20Analysing.sql)
 
 The data is now prepared for analysis and several queries are asked to answer the real question:
 
