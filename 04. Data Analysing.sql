@@ -1,4 +1,4 @@
--- bikes types used by riders
+-- bike types used by riders
 
 
 SELECT
