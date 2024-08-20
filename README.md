@@ -208,7 +208,7 @@ To answer this question, I need to understand riding habits.
 <img width="584" alt="image" src="https://github.com/user-attachments/assets/66231384-dac5-4027-b1e4-01c236c002c8">
 
 - What location are the bikes rented from?
-<img width="881" alt="image" src="https://github.com/user-attachments/assets/efbd4386-d76f-4a8b-9de9-6885aac4ce2f">
+<img width="881" alt="image" src="https://github.com/user-attachments/assets/723ad718-f264-43c5-8734-a128ed921685">
 
 - Where does the trip end?
 <img width="880" alt="image" src="https://github.com/user-attachments/assets/5531d1c7-1b35-43df-9949-9fa68fdd969a">
