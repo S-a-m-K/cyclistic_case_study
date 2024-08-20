@@ -67,51 +67,44 @@ ORDER BY
 
 -- average ride length per hour
 
-
 SELECT
- TIME(EXTRACT(HOUR FROM started_at), 0, 0) AS hour_of_day,
- member_casual,
- ROUND(avg(ride_length),2) AS avg_ride_length
+  TIME(EXTRACT(HOUR FROM started_at), 0, 0) AS hour_of_day,
+  member_casual,
+  CAST(avg(ride_length) AS INT64) AS avg_ride_length
 FROM
- `cyclistic-case-study-00.cyclistic_trip_data.cyclistic_combined_trip_data_cleaned_01`
+  `cyclistic-case-study-00.cyclistic_trip_data.cyclistic_combined_trip_data_cleaned_01`
 GROUP BY
- hour_of_day,
- member_casual;
-
-
+  hour_of_day,
+  member_casual;
 
 
 -- average ride length per day of the week
 
-
 SELECT
- day_of_week,
- member_casual,
- ROUND(AVG(ride_length),2) AS avg_ride_length
+  day_of_week,
+  member_casual,
+  CAST(AVG(ride_length) AS INT64) AS avg_ride_length
 FROM
- `cyclistic-case-study-00.cyclistic_trip_data.cyclistic_combined_trip_data_cleaned_01`
+  `cyclistic-case-study-00.cyclistic_trip_data.cyclistic_combined_trip_data_cleaned_01`
 GROUP BY
- day_of_week,
- member_casual;
+  day_of_week,
+  member_casual;
 
 
 -- average ride length per month
 
-
 SELECT
- month,
- member_casual,
- ROUND(AVG(ride_length),2) AS avg_ride_length
+  month,
+  member_casual,
+  CAST(AVG(ride_length) AS INT64) AS avg_ride_length
 FROM
- `cyclistic-case-study-00.cyclistic_trip_data.cyclistic_combined_trip_data_cleaned_01`
+  `cyclistic-case-study-00.cyclistic_trip_data.cyclistic_combined_trip_data_cleaned_01`
 GROUP BY
- month,
- member_casual;
+  month,
+  member_casual;
 
 
 -- starting station location
-
-
 
 
 SELECT
@@ -125,8 +118,6 @@ FROM
 `cyclistic-case-study-00.cyclistic_trip_data.cyclistic_combined_trip_data_cleaned_01`
 GROUP BY
 start_station_name;
-
-
 
 
 -- end station location
