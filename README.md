@@ -27,7 +27,7 @@ In this case study, I work as a junior data analyst on the marketing analytics t
   - [Data Exploration](#Data-Exploration)
   - [Observations](#Observations)
 - [Data Cleaning](#Data-Cleaning)
-- [Analyze](#Analyze)
+- [Analysing](#Analysing)
 - [Visualize](#Visualize)
 - [Recommendation](#Recommendation-based-on-analysis)
 
@@ -176,7 +176,7 @@ SQL Query: [Create a new clean table](https://github.com/S-a-m-K/cyclistic_case_
 - Trips that lasted less than one minute or longer than one day were removed
 - A total of 315,415 rows were removed
 
-### Analysis
+### Analysing
 
 SQL Query: [Data Analysing](https://github.com/S-a-m-K/cyclistic_case_study/blob/main/04.%20Data%20Analysing.sql)
 
