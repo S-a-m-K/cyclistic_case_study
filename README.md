@@ -161,7 +161,7 @@ SQL Query: [Data Exploration](https://github.com/S-a-m-K/cyclistic_case_study/bl
 <img width="186" alt="image" src="https://github.com/user-attachments/assets/7dfb2e48-e4db-4d48-9a53-32491a8202de">
 
 12. Which members use which station and how many times
-<img width="585" alt="image" src="https://github.com/user-attachments/assets/cbf4aba7-88b0-4b84-86f9-eadf571a4f10">
+<img width="586" alt="image" src="https://github.com/user-attachments/assets/02d4a3dd-ecf1-42d5-809d-31a5a5decbcc">
 
 13. How many times members and casuals rent a bike
 <img width="386" alt="image" src="https://github.com/user-attachments/assets/1cd3c501-a96b-4ea0-8032-dd759cfbb0c8">
