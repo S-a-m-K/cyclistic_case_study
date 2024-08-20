@@ -187,31 +187,31 @@ How does bike usage differ between annual members and occasional riders?
 To answer this question, I need to understand riding habits.
 
 - First, we compare who uses what type of bikes
-  <img width="584" alt="image" src="https://github.com/user-attachments/assets/ed1ea227-e004-4909-be82-44d2674a0c3e">
+<img width="584" alt="image" src="https://github.com/user-attachments/assets/ed1ea227-e004-4909-be82-44d2674a0c3e">
 
 - Who rides at what time of day?
-  <img width="509" alt="image" src="https://github.com/user-attachments/assets/2b378fed-f2df-4bed-8525-b2d56e03e13f">
+<img width="509" alt="image" src="https://github.com/user-attachments/assets/2b378fed-f2df-4bed-8525-b2d56e03e13f">
 
 - Who rides on what day of the week?
-  <img width="584" alt="image" src="https://github.com/user-attachments/assets/0cbfcb15-b41e-4e42-be3e-b7a41e0e7ead">
+<img width="584" alt="image" src="https://github.com/user-attachments/assets/0cbfcb15-b41e-4e42-be3e-b7a41e0e7ead">
 
 - Who rides in what months?
-  <img width="586" alt="image" src="https://github.com/user-attachments/assets/84d2cf47-ab33-4031-919e-e4ffca2f4548">
+<img width="586" alt="image" src="https://github.com/user-attachments/assets/84d2cf47-ab33-4031-919e-e4ffca2f4548">
 
 - The average ride length per time of day
-  <img width="508" alt="image" src="https://github.com/user-attachments/assets/accd7431-890a-4099-b023-2524d587bd91">
+<img width="508" alt="image" src="https://github.com/user-attachments/assets/accd7431-890a-4099-b023-2524d587bd91">
 
 - The average ride length per day of the week
-  <img width="585" alt="image" src="https://github.com/user-attachments/assets/1ba7a31a-b45c-4b26-b98d-55a02d3e9d93">
+<img width="585" alt="image" src="https://github.com/user-attachments/assets/1ba7a31a-b45c-4b26-b98d-55a02d3e9d93">
 
 - The average ride length per month
-  <img width="584" alt="image" src="https://github.com/user-attachments/assets/66231384-dac5-4027-b1e4-01c236c002c8">
+<img width="584" alt="image" src="https://github.com/user-attachments/assets/66231384-dac5-4027-b1e4-01c236c002c8">
 
 - What location are the bikes rented from?
-  <img width="881" alt="image" src="https://github.com/user-attachments/assets/efbd4386-d76f-4a8b-9de9-6885aac4ce2f">
+<img width="881" alt="image" src="https://github.com/user-attachments/assets/efbd4386-d76f-4a8b-9de9-6885aac4ce2f">
 
 - Where does the trip end?
-  <img width="880" alt="image" src="https://github.com/user-attachments/assets/5531d1c7-1b35-43df-9949-9fa68fdd969a">
+<img width="880" alt="image" src="https://github.com/user-attachments/assets/5531d1c7-1b35-43df-9949-9fa68fdd969a">
 
 ### Share
 
