@@ -28,7 +28,7 @@ In this case study, I work as a junior data analyst on the marketing analytics t
   - [Observations](#Observations)
 - [Data Cleaning](#Data-Cleaning)
 - [Analysing](#Analysing)
-- [Visualizing](#Visualizing)
+- [Visualization](#Visualization)
 - [Recommendation](#Recommendation-based-on-analysis)
 
 ---
@@ -215,4 +215,4 @@ To answer this question, I need to understand riding habits.
 
 ### Share
 
-Data Visualizing: [Tableau]()
+Data Visualization: [Tableau]()
