@@ -178,3 +178,17 @@ SQL Query: [Create a clean table](https://github.com/S-a-m-K/cyclistic_case_stud
 
 ### Analysis
 
+SQL Query: [Data Analysing]()
+
+The data is now prepared for analysis and several queries are asked to answer the real question:
+
+How does bike usage differ between annual members and occasional riders?
+
+To answer this question, I need to understand riding habits.
+
+- First, we compare who uses what type of bikes.
+- Who rides at what time of day?
+- Who rides on what day of the week?
+- Who rides in what months?
+- What location are the bikes rented from?
+- Where does the trip end?
