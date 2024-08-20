@@ -28,7 +28,7 @@ In this case study, I work as a junior data analyst on the marketing analytics t
   - [Observations](#Observations)
 - [Data Cleaning](#Data-Cleaning)
 - [Analysing](#Analysing)
-- [Visualization](#Visualization)
+- [Visualization](#Share)
 - [Recommendation](#Recommendation-based-on-analysis)
 
 ---
