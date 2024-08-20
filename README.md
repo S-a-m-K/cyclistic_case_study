@@ -168,7 +168,7 @@ SQL Query: [Data Exploration](https://github.com/S-a-m-K/cyclistic_case_study/bl
 
 ### Data cleaning
 
-SQL Query: [Create a clean table](https://github.com/S-a-m-K/cyclistic_case_study/blob/main/03.%20Data%20Cleaning)
+SQL Query: [Create a new clean table](https://github.com/S-a-m-K/cyclistic_case_study/blob/main/03.%20Data%20Cleaning)
 
 - All rows with missing values ​​were deleted
 - New columns were added: day_of_week, month and ride_length
