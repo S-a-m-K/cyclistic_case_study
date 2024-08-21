@@ -233,8 +233,7 @@ For the last analysis process "Share" I chose Tableau.
 
 
 
-<img width="993" alt="image" src="https://github.com/user-attachments/assets/67067028-af1f-47f8-9fee-cc4ffa44c5f5">
-
+<img width="991" alt="image" src="https://github.com/user-attachments/assets/1bccea19-b1d0-46f0-95b7-9e233d126f12">
 
 
 
