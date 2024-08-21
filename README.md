@@ -221,11 +221,11 @@ For the last analysis process "Share" I chose Tableau.
 
 ### Bike used by riders
 
-<img width="986" alt="image" src="https://github.com/user-attachments/assets/495af086-7253-42f4-8343-045bcc1cbdab">
+<img width="989" alt="image" src="https://github.com/user-attachments/assets/5025fb27-6e91-40d9-94cc-ccc3dc2bd0d1">
 
 
 
-<img width="997" alt="image" src="https://github.com/user-attachments/assets/b1397ccd-b8cc-48d9-a0c3-024e3e7f0834">
+<img width="998" alt="image" src="https://github.com/user-attachments/assets/d0489f03-72e5-45df-93a6-5c340b6e9029">
 
 
 
