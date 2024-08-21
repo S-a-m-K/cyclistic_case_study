@@ -213,6 +213,15 @@ To answer this question, I need to understand riding habits.
 - Where does the trip end?
 <img width="880" alt="image" src="https://github.com/user-attachments/assets/5531d1c7-1b35-43df-9949-9fa68fdd969a">
 
-### Share
+# Share
 
 Data Visualization: [Tableau]()
+
+For the last analysis process "Share" I chose Tableau.
+
+### Bike used by riders
+
+<img width="1052" alt="image" src="https://github.com/user-attachments/assets/fd7ab07d-a0e3-4181-bb9b-cdd3551ccab6">
+
+
+
