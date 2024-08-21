@@ -225,3 +225,35 @@ For the last analysis process "Share" I chose Tableau.
 
 
 
+<img width="997" alt="image" src="https://github.com/user-attachments/assets/b1397ccd-b8cc-48d9-a0c3-024e3e7f0834">
+
+
+
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/4575d975-9185-49d1-879b-7acc4e0bfdfc">
+
+
+
+<img width="993" alt="image" src="https://github.com/user-attachments/assets/270028a3-d516-41cf-90dc-493faadf2d5c">
+
+
+
+<img width="991" alt="image" src="https://github.com/user-attachments/assets/cfcdeb85-e8e9-48d6-aa23-839695df2d05">
+
+
+
+<img width="999" alt="image" src="https://github.com/user-attachments/assets/35824339-e871-4e8e-81f9-a90730ce95bc">
+
+
+
+<img width="998" alt="image" src="https://github.com/user-attachments/assets/1f937c88-8a48-4e8f-a8f2-c44f01ab5d74">
+
+
+
+<img width="987" alt="image" src="https://github.com/user-attachments/assets/66409ebf-40d9-4eea-bffe-2e9ac8592c51">
+
+
+
+<img width="1001" alt="image" src="https://github.com/user-attachments/assets/68928be2-b553-4771-ad9f-fb1edc402469">
+
+
+
