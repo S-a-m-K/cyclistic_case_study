@@ -268,3 +268,16 @@ The analysis of the start and destination stations supports my assumption. Membe
 
 So I come to the conclusion that members largely use the bikes for their daily commute, while casuals mostly use them for leisure activities.
 
+### Summary:
+
+- Members prefer to use the bikes on weekdays during rush hour. That is, between 7-8 a.m. and 4-6 p.m.
+
+- Members ride more frequently but for shorter distances.
+
+- Members often use stations near residential and commercial areas.
+
+- Casuals use the bike sharing company more often on weekends and more in the spring than in the winter.
+
+- Casuals ride less frequently but for longer distances.
+
+- Casuals often use recreational areas as starting and ending stations.
