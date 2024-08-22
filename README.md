@@ -233,7 +233,7 @@ Next, let's take a look at the number of trips by daytime.
 
 The members show two peaks over the course of the day. Between 7 and 8 a.m. and then again between 4 and 5 p.m. in the afternoon. These peaks roughly correspond to the time range of the start and end of work for an average job. Things are different for casual riders. The line diagram clearly shows that the number of trips increases steadily from the morning, reaches the peak around 5 a.m. and then levels off. I would attribute this behavior more to occasional riders who use the bike for leisure activities.
 
-Next, we look at the number of trips distributed over the days of the week.
+Next, the number of trips distributed over the days of the week.
 
 <img width="993" alt="image" src="https://github.com/user-attachments/assets/1eaefd78-cf30-441c-bb98-1ae35a8d0340">
 
