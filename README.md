@@ -219,14 +219,15 @@ Data Visualization: [Tableau]()
 
 For the analysis process "Share" I chose Tableau.
 
-
 <img width="998" alt="image" src="https://github.com/user-attachments/assets/d0489f03-72e5-45df-93a6-5c340b6e9029">
 
 Over 300,000 users who used the bikes in these five months are casuals. Compared to the total number of members, that's almost a third.
 
 <img width="989" alt="image" src="https://github.com/user-attachments/assets/5025fb27-6e91-40d9-94cc-ccc3dc2bd0d1">
 
+Over 110,000 of the casuals use classic bikes. Over 200,000 use electric bikes. Compared to the members, this amounts to almost a quarter for classic bikes. For electric bikes, it is almost 30 percent of the total users. In contrast, docked bikes are only used by casuals.
 
+Next, let's take a look at the number of trips by daytime.
 
 <img width="991" alt="image" src="https://github.com/user-attachments/assets/164196ff-6ac7-4f7b-8b8d-a7efa25c687f">
 
