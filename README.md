@@ -237,11 +237,11 @@ Next, the number of trips distributed over the days of the week.
 
 <img width="993" alt="image" src="https://github.com/user-attachments/assets/1eaefd78-cf30-441c-bb98-1ae35a8d0340">
 
-When renting bikes in the weekday view, members rent more frequently from Monday to Friday. Casuals, on the other hand, rent more on Saturdays.
+When comparing days of the week, members rent more often from Monday to Friday. On the other hand, casual riders rent more on Saturdays.
 
 <img width="991" alt="image" src="https://github.com/user-attachments/assets/5a9c03e9-2065-4354-be77-89f5978626c4">
 
-
+However, on a monthly basis, members and casual riders show similar behavior, with fewer trips occurring in winter than in spring.
 
 <img width="999" alt="image" src="https://github.com/user-attachments/assets/35824339-e871-4e8e-81f9-a90730ce95bc">
 
