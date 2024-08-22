@@ -251,7 +251,7 @@ When it comes to the average driving time per hour, members drive for less time 
 
 <img width="990" alt="image" src="https://github.com/user-attachments/assets/dc992fae-9a66-4d21-a99d-93c893202151">
 
-
+In the weekday view, the members always show the same driving behavior. The driving time from Monday to Sunday is on average 10-12 minutes. For the casuals, however, the driving length increases more and more towards the weekend.
 
 <img width="987" alt="image" src="https://github.com/user-attachments/assets/66409ebf-40d9-4eea-bffe-2e9ac8592c51">
 
