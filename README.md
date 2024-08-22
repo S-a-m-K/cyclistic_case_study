@@ -255,9 +255,16 @@ In the weekday view, the members always show the same driving behavior. The driv
 
 <img width="985" alt="image" src="https://github.com/user-attachments/assets/e698e4c2-611a-43c2-931a-a310f29e7219">
 
+Note that the average ride time of members does not change throughout the month. For casuals, ride time changes in spring, which is probably due to the temperature. In general, casual riders ride about twice as long as members. In turn, members ride much more often than casuals.
 
+Perhaps members use the bikes for commuting and casuals use the bikes for leisure purposes.
+
+However, to better understand the differences, one can analyze the start and destination stations.
+Let's check which stations are used the most.
 
 <img width="1001" alt="image" src="https://github.com/user-attachments/assets/68928be2-b553-4771-ad9f-fb1edc402469">
 
+The analysis of the start and destination stations supports my assumption. Members often started their rides from residential areas, universities, schools, banks, factories, and railway stations. Casuals, on the other hand, chose to start from recreational areas such as parks, ports, aquariums, beaches, and museums. The same trend is observed in the destination stations.
 
+So I come to the conclusion that members largely use the bikes for their daily commute, while casuals mostly use them for leisure activities.
 
