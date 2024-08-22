@@ -243,7 +243,7 @@ When comparing days of the week, members rent more often from Monday to Friday. 
 
 However, on a monthly basis, members and casual riders show similar behavior, with fewer trips occurring in winter than in spring.
 
-Next, let's look at the average ride duration and see if we can find any differences.
+Now, let's look at the average ride duration and see if we can find any differences.
 
 <img width="999" alt="image" src="https://github.com/user-attachments/assets/35824339-e871-4e8e-81f9-a90730ce95bc">
 
