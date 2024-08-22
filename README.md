@@ -217,15 +217,14 @@ To answer this question, I need to understand riding habits.
 
 Data Visualization: [Tableau]()
 
-For the last analysis process "Share" I chose Tableau.
-
-### Bike used by riders
-
-<img width="989" alt="image" src="https://github.com/user-attachments/assets/5025fb27-6e91-40d9-94cc-ccc3dc2bd0d1">
-
+For the analysis process "Share" I chose Tableau.
 
 
 <img width="998" alt="image" src="https://github.com/user-attachments/assets/d0489f03-72e5-45df-93a6-5c340b6e9029">
+
+
+
+<img width="989" alt="image" src="https://github.com/user-attachments/assets/5025fb27-6e91-40d9-94cc-ccc3dc2bd0d1">
 
 
 
