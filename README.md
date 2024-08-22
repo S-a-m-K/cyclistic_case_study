@@ -243,9 +243,11 @@ When comparing days of the week, members rent more often from Monday to Friday. 
 
 However, on a monthly basis, members and casual riders show similar behavior, with fewer trips occurring in winter than in spring.
 
+Let's take a look at the average driving time.
+
 <img width="999" alt="image" src="https://github.com/user-attachments/assets/35824339-e871-4e8e-81f9-a90730ce95bc">
 
-
+When it comes to the average driving time per hour, members drive for less time than casual drivers. For members, it is an average of 10 to 11 minutes. For casuals, the average driving time is 20 minutes.
 
 <img width="990" alt="image" src="https://github.com/user-attachments/assets/dc992fae-9a66-4d21-a99d-93c893202151">
 
