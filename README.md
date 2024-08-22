@@ -222,7 +222,7 @@ For the analysis process "Share" I chose Tableau.
 
 <img width="998" alt="image" src="https://github.com/user-attachments/assets/d0489f03-72e5-45df-93a6-5c340b6e9029">
 
-
+If you look at the total number of trips in these 5 months, you will see that almost a third of them are casuals. So there is still a lot of room for improvement.
 
 <img width="989" alt="image" src="https://github.com/user-attachments/assets/5025fb27-6e91-40d9-94cc-ccc3dc2bd0d1">
 
