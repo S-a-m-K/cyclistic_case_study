@@ -176,7 +176,7 @@ SQL Query: [Create a new clean table](https://github.com/S-a-m-K/cyclistic_case_
 - Trips that lasted less than one minute or longer than one day were removed
 - A total of 315,415 rows were removed
 
-### Analysing
+# **Analysing**
 
 SQL Query: [Data Analysing](https://github.com/S-a-m-K/cyclistic_case_study/blob/main/04.%20Data%20Analysing.sql)
 
@@ -213,7 +213,7 @@ To answer this question, I need to understand riding habits.
 - Where does the trip end?
 <img width="880" alt="image" src="https://github.com/user-attachments/assets/5531d1c7-1b35-43df-9949-9fa68fdd969a">
 
-# Share
+# **Share**
 
 Data Visualization: [Tableau]()
 
@@ -282,7 +282,7 @@ So I come to the conclusion that members largely use the bikes for their daily c
 
 - Casuals often use recreational areas as starting and ending stations
 
-# Act
+# **Act**
 
 Now that the differences between members and casual riders have been clearly identified and we now know that casuals use the bikes more for leisure activities, it is important to consider how to design a membership specifically for casual users.
 
