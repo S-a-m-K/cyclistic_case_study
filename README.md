@@ -217,7 +217,7 @@ To answer this question, I need to understand riding habits.
 
 # **Share**
 
-### Data Visualization:
+### Data Visualization
 
 For the analysis process "Share" I chose Tableau.
 
