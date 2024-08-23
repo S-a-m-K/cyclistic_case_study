@@ -284,6 +284,7 @@ So I come to the conclusion that members largely use the bikes for their daily c
 
 # Act
 
-Now that the differences between members and casuals have been clearly identified, a marketing strategy can be developed to convince casuals to become members.
+Now that the differences between members and casual riders have been clearly identified and we now know that casuals use the bikes more for leisure activities, it is important to consider how to design a membership specifically for casual users.
 
-For example, this could be:
+For example, this could look like this:
+
