@@ -272,12 +272,18 @@ So I come to the conclusion that members largely use the bikes for their daily c
 
 - Members prefer to use the bikes on weekdays during rush hour. That is, between 7-8 a.m. and 4-6 p.m.
 
-- Members ride more frequently but for shorter distances.
+- Members ride more frequently but for shorter distances
 
-- Members often use stations near residential and commercial areas.
+- Members often use stations near residential and commercial areas
 
-- Casuals use the bike sharing company more often on weekends and more in the spring than in the winter.
+- Casuals use the bike sharing company more often on weekends and more in the spring than in the winter
 
-- Casuals ride less frequently but for longer distances.
+- Casuals ride less frequently but for longer distances
 
-- Casuals often use recreational areas as starting and ending stations.
+- Casuals often use recreational areas as starting and ending stations
+
+# Act
+
+Now that the differences between members and casuals have been clearly identified, a marketing strategy can be developed to convince casuals to become members.
+
+For example, this could be:
