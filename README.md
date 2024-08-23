@@ -26,7 +26,7 @@ In this case study, I work as a junior data analyst on the marketing analytics t
   - [Combining the Data](#Combining-the-Data)
   - [Data Exploration](#Data-Exploration)
   - [Observations](#Observations)
-- [Data Cleaning](#Data-Cleaning)
+  - [Data Cleaning](#Data-Cleaning)
 - [Analysing](#Analysing)
 - [Share](#Share)
 - [Act](#Act)
