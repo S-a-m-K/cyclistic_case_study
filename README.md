@@ -288,3 +288,9 @@ Now that the differences between members and casual riders have been clearly ide
 
 For example, this could look like this:
 
+- As casual riders use the bikes for longer distances, discounts could be offered through membership after a certain number of km.
+
+- Casual riders are more active on weekends and in spring than in the cold winter months. You could offer a seasonal membership or one that is only valid for weekends.
+
+- During the active months and on weekends, marketing campaigns could be carried out at tourist and leisure locations to convince them to join. You could also start a survey at these hotspots to collect more data and think about how to get them to use the mode of transport as a "daily business matter".
+
