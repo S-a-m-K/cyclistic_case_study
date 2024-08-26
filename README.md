@@ -217,7 +217,9 @@ To answer this question, I need to understand riding habits.
 
 # **Share**
 
-### Data Visualization
+### Data Visualization 
+
+[Tableau](https://public.tableau.com/views/cyclistictypesofbikesusedbyriders/CyclisiticCaseStudy?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 For the analysis process "Share" I chose Tableau.
 
