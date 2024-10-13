@@ -9,7 +9,7 @@ Course: [Google Data Analytics Capstone: Complete a Case Study](https://www.cour
 
 # **Introduction**
 
-In this case study, I work as a Junior Data Analyst with the Marketing Team at Cyclistic, a bicycle company in Chicago. Marketing leadership wants to maximize annual memberships, so the team wants to understand the differences in usage between casual riders and annual members. Based on these insights, the team will develop a new marketing strategy to convert casual riders into annual members.
+In this case study, I work as a junior data analyst with the marketing team at Cyclistic, a bicycle company in Chicago. Marketing leadership wants to maximize annual memberships, so the team wants to understand the differences in usage between casual riders and annual members. Based on these insights, the team will develop a new marketing strategy to convert casual riders into annual members.
 
 ---
 
