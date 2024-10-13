@@ -75,7 +75,7 @@ How does the use of Cyclistic differ between annual members and casual riders?
 
 ### **Data Source**
 
-This is historical trip data from a cycling company. The datasets have a different name because Cyclistic is a fictitious company. The datasets are appropriate for the purposes of this case study and allow you to answer the company-related questions.
+This is the historical trip data from a cycling company. The data sets have a different name because Cyclistic is a fictitious company. The datas sets are appropriate for the purposes of this case study and allow to answer the company-related questions.
 
 This is public data that you can use to find out how different types of customers use Cyclistic's bikes.
 
