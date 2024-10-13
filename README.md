@@ -75,11 +75,11 @@ How does the use of Cyclistic differ between annual members and casual riders?
 
 ### **Data Source**
 
-This historical trip data is from a cycling company. The data sets have a different name because Cyclistic is a fictitious company. The datas sets are appropriate for the purposes of this case study and allow to answer the company-related questions.
+This historical data is from a cycling company. The data sets have a different name because Cyclistic is a fictitious company. The datas sets are appropriate for the purposes of this case study and allow to answer the company-related questions.
 
-This is public data that can be used to find out how different types of customers use Cyclistic's bikes.
+This is public data, which can be used to find out how different types of customers use Cyclistic's bikes.
 
-Note, however, that for privacy reasons, you cannot use any of the customers' personal data. This means that you cannot link single ticket purchases to credit card numbers to determine whether occasional riders live in Cyclistic's catchment area or have purchased multiple single trips.
+For privacy reasons any of the customers' personal data cant be used. That means that it is not possible to link single ticket purchases to credit card numbers to determine whether occasional riders live in Cyclistic's catchment area or have purchased multiple single trips.
 
 **Source**: Data provided by Motivate International Inc
 
