@@ -63,12 +63,12 @@ Analyze Cyclistic's data to identify usage differences between casual riders and
 ### **Analysis Questions**
 
 Three questions are relevant to the future marketing program:
-1. How does Cyclistic's use differ between annual members and casual riders?
+1. How does the use of Cyclistic differ between annual members and casual riders?
 2. Why should casual riders purchase a Cyclistic annual membership?
 3. How can Cyclistic use digital media to encourage casual riders to join?
 
-Moreno tasked me with answering the first question:
-How does Cyclistic's use differ between annual members and casual riders?
+Mrs. Moreno tasked me with answering the first question:
+How does the use of Cyclistic differ between annual members and casual riders?
 
 # **Prepare**
 
