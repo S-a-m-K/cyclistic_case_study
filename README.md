@@ -135,19 +135,19 @@ SQL Query: [Data Exploration](https://github.com/S-a-m-K/cyclistic_case_study/bl
 2. Count number of rows
 <img width="187" alt="image" src="https://github.com/user-attachments/assets/dafa5d7e-75ad-4897-8ed4-132547194edb">
 
-3. Checking for numbers of null values and i find some in this 4 rows
+3. Check for numbers of null values and i find some in this 4 rows
 <img width="759" alt="image" src="https://github.com/user-attachments/assets/5ca625f7-0c31-4472-9c7f-9d1a4d1aa5ac">
 
-4. Checking for dublicate rows
+4. Check for dublicate rows
 <img width="185" alt="image" src="https://github.com/user-attachments/assets/d7b6f8f1-f4f9-43f5-b305-61bdb2fb9d62">
 
-5. Checking if ride_id has a length of 16
+5. Check if ride_id has a length of 16
 <img width="270" alt="image" src="https://github.com/user-attachments/assets/ec1e68ee-d52a-43f4-a3fa-27a038fce04e">
 
-6. Checking if timestamp values all have the same length
+6. Check if timestamp values all have the same length
 <img width="270" alt="image" src="https://github.com/user-attachments/assets/214e3ab5-f50a-4381-a602-47f942dffd73">
 
-7. Checking for whitespace and find 161 rows
+7. Check for whitespace and find 161 rows
 <img width="1061" alt="image" src="https://github.com/user-attachments/assets/edb2bb1d-6782-4597-aad7-3c64cf5a2cc3">
 
 8. Count number of trips per bike
@@ -168,7 +168,7 @@ SQL Query: [Data Exploration](https://github.com/S-a-m-K/cyclistic_case_study/bl
 13. How many times members and casuals rent a bike
 <img width="386" alt="image" src="https://github.com/user-attachments/assets/1cd3c501-a96b-4ea0-8032-dd759cfbb0c8">
 
-### Data cleaning
+### Data cleansing
 
 SQL Query: [Create a new clean table](https://github.com/S-a-m-K/cyclistic_case_study/blob/main/03.%20Data%20Cleaning)
 
