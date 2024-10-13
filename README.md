@@ -46,11 +46,11 @@ In this case study, I work as a junior data analyst with the marketing team at C
 ### **Stakeholder** 
 
 
-**Lily Moreno**: Marketing Director - responsible for developing campaigns and initiatives to promote the bike sharing program. This includes email, social media and other channels
+**Lily Moreno**: Marketing Director - responsible for developing campaigns and initiatives to promote the bike sharing program. This includes email, social media and other channels.
 
-**Cyclist Marketing Analytics Team**: Data analysis professionals
+**Cyclist Marketing Analytics Team**: Data analysis professionals.
 
-**Cyclist Leadership Team**: Decides whether to approve the recommended marketing program
+**Cyclist Leadership Team**: Decides whether to approve the recommended marketing program.
 
 <div style="margin-bottom: 40px;">
 
