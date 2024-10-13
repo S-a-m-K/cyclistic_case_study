@@ -197,7 +197,7 @@ To answer this question, it needs to understand riding habits.
 - Who rides on what day of the week?
 <img width="584" alt="image" src="https://github.com/user-attachments/assets/0cbfcb15-b41e-4e42-be3e-b7a41e0e7ead">
 
-- Who rides in what months?
+- Who rides in which months?
 <img width="586" alt="image" src="https://github.com/user-attachments/assets/84d2cf47-ab33-4031-919e-e4ffca2f4548">
 
 - The average ride length per time of day
@@ -209,7 +209,7 @@ To answer this question, it needs to understand riding habits.
 - The average ride length per month
 <img width="584" alt="image" src="https://github.com/user-attachments/assets/66231384-dac5-4027-b1e4-01c236c002c8">
 
-- What location are the bikes rented from?
+- From which location were the bicycles rented?
 <img width="881" alt="image" src="https://github.com/user-attachments/assets/723ad718-f264-43c5-8734-a128ed921685">
 
 - Where does the trip end?
