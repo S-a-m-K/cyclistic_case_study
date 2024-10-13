@@ -101,9 +101,9 @@ For privacy reasons any of the customers' personal data cant be used. That means
 
 * **Original**: The data is original and was provided by Motivate International Inc.
 
-* **Comprehensive**: The datasets are suitable for the purposes of this case study and enable you to answer the company-related questions. For marketing purposes and to target customers, personal information such as gender, age and place of residence would be advantageous.
+* **Comprehensive**: The data sets are suitable for the purposes of this case study and enable to answer the company-related questions. For marketing purposes and to target customers, personal information such as gender, age and place of residence would be advantageous.
 
-* **Current**: The dataset is constantly updated and is therefore up to date.
+* **Current**: The data sets is constantly updated and is therefore up to date.
 
 * **Cited**: The data was provided by Motivate International Inc., a real bicycle company.
 
