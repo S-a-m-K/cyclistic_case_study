@@ -182,13 +182,13 @@ SQL Query: [Create a new clean table](https://github.com/S-a-m-K/cyclistic_case_
 
 SQL Query: [Data Analysing](https://github.com/S-a-m-K/cyclistic_case_study/blob/main/04.%20Data%20Analysing.sql)
 
-The data is now prepared for analysis and several queries are asked to answer the real question:
+The data is prepared now for analysis and several queries are asked to answer the real question:
 
 How does bike usage differ between annual members and occasional riders?
 
-To answer this question, I need to understand riding habits.
+To answer this question, it needs to understand riding habits.
 
-- First, we compare who uses what type of bikes
+- First, it is to compare who uses what type of bikes
 <img width="584" alt="image" src="https://github.com/user-attachments/assets/ed1ea227-e004-4909-be82-44d2674a0c3e">
 
 - Who rides at what time of day?
