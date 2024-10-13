@@ -116,7 +116,7 @@ For privacy reasons any of the customers' personal data cant be used. That means
 # **Process**
 
 
-Since the data set contains several million rows, it is important to use a platform that supports large amounts of data. For this purpose, I used BigQuery to combine the different data sets and clean them.
+Since the data sets contains several million rows, it is important to use a platform that supports large amounts of data. For this purpose, I used BigQuery to combine the different data sets and cleanse them.
 
 ### **Combining the Data**
 
