@@ -219,7 +219,7 @@ To answer this question, it needs to understand riding habits.
 
 ### Data Visualization 
 
-For the analysis process "Share" I choosed [Tableau](https://public.tableau.com/views/CyclisticCaseStudy_17246685586230/CyclisiticCaseStudy?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+For the analysis process "Share" I chose [Tableau](https://public.tableau.com/views/CyclisticCaseStudy_17246685586230/CyclisiticCaseStudy?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 <img width="998" alt="image" src="https://github.com/user-attachments/assets/d0489f03-72e5-45df-93a6-5c340b6e9029">
 
