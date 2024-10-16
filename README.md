@@ -37,8 +37,6 @@ In this case study, I work as a junior data analyst with the marketing team at C
 
 # **Ask**
 
-
-
 <div style="margin-bottom: 40px;">
 
 </div>
