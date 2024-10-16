@@ -107,7 +107,7 @@ For privacy reasons any of the customers' personal data cant be used. That means
 
 * **Cited**: The data was provided by Motivate International Inc., a real bicycle company.
 
-* **License**: Due to non personal data, there are no data protection concerns to consider.
+* **License**: https://divvybikes.com/data-license-agreement: The data set does not contain any personal data. There are no data protection concerns.
 
 <div style="margin-bottom: 40px;">
 
