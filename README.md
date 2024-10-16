@@ -103,7 +103,7 @@ For privacy reasons any of the customers' personal data cant be used. That means
 
 * **Current**: The data sets is constantly updated and is therefore up to date.
 
-* **Cited**: The data was provided by Motivate International Inc., a real bicycle company.
+* **Cited**: The data is provided by Motivate International Inc., a real bicycle company.
 
 * **License**: [data license agreement](https://divvybikes.com/data-license-agreement): The data set does not contain any personal data. There are no data protection concerns.
 
