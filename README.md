@@ -229,9 +229,9 @@ As the next step, let's examine the number of trips made during the daytime.
 
 <img width="991" alt="image" src="https://github.com/user-attachments/assets/164196ff-6ac7-4f7b-8b8d-a7efa25c687f">
 
-"In the hourly view, members show two peak times: one between 7 and 8 a.m. and another between 4 and 5 p.m. These peaks roughly correspond to the start and end times of a typical workday. In contrast, casual riders exhibit a different pattern. The line chart clearly shows that the number of rides steadily increases from the morning, reaching a peak around 5 p.m., and then levels off. I would attribute this behavior to casual riders using the bike for leisure activities. 
+In the hourly view, members show two peak times: one between 7 and 8 a.m. and another between 4 and 5 p.m. These peaks roughly correspond to the start and end times of a typical workday. In contrast, casual riders exhibit a different pattern. The line chart clearly shows that the number of rides steadily increases from the morning, reaching a peak around 5 p.m., and then levels off. I would attribute this behavior to casual riders using the bike for leisure activities. 
 
-The next step is to analyze the distribution of rides across the days of the week."
+The next step is to analyze the distribution of rides across the days of the week.
 
 <img width="993" alt="image" src="https://github.com/user-attachments/assets/1eaefd78-cf30-441c-bb98-1ae35a8d0340">
 
@@ -239,9 +239,9 @@ When comparing the days of the week, members tend to rent bikes more frequently 
 
 <img width="991" alt="image" src="https://github.com/user-attachments/assets/5a9c03e9-2065-4354-be77-89f5978626c4">
 
-"However, on a monthly basis, both members and casual riders exhibit similar behaviors, with fewer trips occurring in winter compared to spring. 
+However, on a monthly basis, both members and casual riders exhibit similar behaviors, with fewer trips occurring in winter compared to spring. 
 
-Now, let's take a look at the average ride duration to see if we can identify any differences."
+Now, let's take a look at the average ride duration to see if we can identify any differences.
 
 <img width="999" alt="image" src="https://github.com/user-attachments/assets/35824339-e871-4e8e-81f9-a90730ce95bc">
 
@@ -249,19 +249,19 @@ When it comes to average riding time per hour, members ride for less time than c
 
 <img width="990" alt="image" src="https://github.com/user-attachments/assets/dc992fae-9a66-4d21-a99d-93c893202151">
 
-"In the weekday view, members consistently exhibit the same riding behavior, with an average ride time of 10-12 minutes from Monday to Sunday. In contrast, the ride duration for casual riders increases as the weekend approaches."
+In the weekday view, members consistently exhibit the same riding behavior, with an average ride time of 10-12 minutes from Monday to Sunday. In contrast, the ride duration for casual riders increases as the weekend approaches.
 
 <img width="985" alt="image" src="https://github.com/user-attachments/assets/e698e4c2-611a-43c2-931a-a310f29e7219">
 
 In contrast, casual riders experience variations in ride time during spring, likely due to temperature changes. Generally, casual riders have about twice the ride time of members, while members tend to ride much more frequently than casuals. This suggests that members primarily use the bikes for commuting, whereas casual riders use them for leisure purposes. 
 
-However, to better understand the differences between these two groups, we need to analyze the start and destination stations."
+However, to better understand the differences between these two groups, we need to analyze the start and destination stations.
 
 <img width="1001" alt="image" src="https://github.com/user-attachments/assets/68928be2-b553-4771-ad9f-fb1edc402469">
 
-"The analysis of the start and end stations shows that members often begin their rides in residential areas, universities, schools, banks, factories, and railway stations. Casual riders, on the other hand, tend to start from recreational areas such as parks, ports, aquariums, beaches, and museums. This trend is also reflected in the destination stations. 
+The analysis of the start and end stations shows that members often begin their rides in residential areas, universities, schools, banks, factories, and railway stations. Casual riders, on the other hand, tend to start from recreational areas such as parks, ports, aquariums, beaches, and museums. This trend is also reflected in the destination stations. 
 
-Based on this, I conclude that members primarily use the bikes for their daily commute, while casual riders mostly use them for leisure activities."
+Based on this, I conclude that members primarily use the bikes for their daily commute, while casual riders mostly use them for leisure activities.
 
 ### Summary:
 
