@@ -229,19 +229,19 @@ As the next step, let's examine the number of trips made during the daytime.
 
 <img width="991" alt="image" src="https://github.com/user-attachments/assets/164196ff-6ac7-4f7b-8b8d-a7efa25c687f">
 
-The members show two peaks over the course of the day. Between 7 and 8 a.m. and then again between 4 and 5 in the afternoon. These peaks roughly correspond to the time range of the start and end of work for an average job. Things are different for casual riders. The line diagram clearly shows that the number of trips increases steadily from the morning, reaches the peak around 5 a.m. and then levels off. I would attribute this behavior more to occasional riders who use the bike for leisure activities.
+"In the hourly view, members show two peak times: one between 7 and 8 a.m. and another between 4 and 5 p.m. These peaks roughly correspond to the start and end times of a typical workday. In contrast, casual riders exhibit a different pattern. The line chart clearly shows that the number of rides steadily increases from the morning, reaching a peak around 5 p.m., and then levels off. I would attribute this behavior to casual riders using the bike for leisure activities. 
 
-Next, the number of trips distributed over the days of the week.
+The next step is to analyze the distribution of rides across the days of the week."
 
 <img width="993" alt="image" src="https://github.com/user-attachments/assets/1eaefd78-cf30-441c-bb98-1ae35a8d0340">
 
-When comparing days of the week, members rent more often from Monday to Friday. On the other hand, casual riders rent more on Saturdays.
+When comparing the days of the week, members tend to rent bikes more frequently from Monday to Friday, while casual riders rent more bikes on Saturdays.
 
 <img width="991" alt="image" src="https://github.com/user-attachments/assets/5a9c03e9-2065-4354-be77-89f5978626c4">
 
-However, on a monthly basis, members and casual riders show similar behavior, with fewer trips occurring in winter than in spring.
+"However, on a monthly basis, both members and casual riders exhibit similar behaviors, with fewer trips occurring in winter compared to spring. 
 
-Now, let's look at the average ride duration and see if we can find any differences.
+Now, let's take a look at the average ride duration to see if we can identify any differences."
 
 <img width="999" alt="image" src="https://github.com/user-attachments/assets/35824339-e871-4e8e-81f9-a90730ce95bc">
 
