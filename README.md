@@ -279,13 +279,13 @@ Based on this, I conclude that members primarily use the bikes for their daily c
 
 # **Act**
 
-Now that the differences between members and casual riders have been clearly identified and we now know that casual riders use the bikes more for leisure activities, it is important to consider how to design a membership specifically for casual users.
+Now that the differences between members and casual riders have been clearly identified, and we know that casual riders use the bikes more for leisure activities, it is important to consider how to design a membership specifically for them.
 
 For example, this could look like this:
 
-- As casual riders use the bikes for longer distances, discounts could be offered through membership after a certain number of km.
+- As casual riders use the bikes for longer distances, discounts should be offered through membership after a certain number of km.
 
-- Casual riders are more active on weekends and in spring than in the cold winter months. You could offer a seasonal membership or one that is only valid for weekends.
+- Casual riders are more active on weekends and in spring than in the cold winter months. The company Cyclistic should offer a seasonal membership or a membership that is only valid for weekends.
 
-- During the active months and on weekends, marketing campaigns could be carried out at tourist and leisure locations to convince them to join. You could also start a survey at these hotspots to collect more data and think about how to get them to use the mode of transport as a "daily business matter".
+- During the peak season and on weekends, marketing campaigns should be carried out at tourist and leisure locations to encourage visitors to participate. At this point, it is also advisable to launch surveys at these hotspots to gather more data in order to better understand the leisure behavior as well as the daily routines of visitors and casual riders.
 
