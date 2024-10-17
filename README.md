@@ -245,26 +245,23 @@ Now, let's take a look at the average ride duration to see if we can identify an
 
 <img width="999" alt="image" src="https://github.com/user-attachments/assets/35824339-e871-4e8e-81f9-a90730ce95bc">
 
-When it comes to the average driving time per hour, members drive for less time than casual drivers. For members, it is an average of 10 to 11 minutes. For casual riders, the average driving time is 20 minutes.
+When it comes to average riding time per hour, members ride for less time than casual riders. Members average 10 to 11 minutes per ride, while casual riders have an average riding time of 20 minutes.
 
 <img width="990" alt="image" src="https://github.com/user-attachments/assets/dc992fae-9a66-4d21-a99d-93c893202151">
 
-In the weekday view, the members always show the same driving behavior. The driving time from Monday to Sunday is on average 10-12 minutes. For the casual riders, however, the driving length increases more and more towards the weekend.
+"In the weekday view, members consistently exhibit the same riding behavior, with an average ride time of 10-12 minutes from Monday to Sunday. In contrast, the ride duration for casual riders increases as the weekend approaches."
 
 <img width="985" alt="image" src="https://github.com/user-attachments/assets/e698e4c2-611a-43c2-931a-a310f29e7219">
 
-Note that the average ride time of members does not change throughout the month. For casual riders, ride time changes in spring, which is probably due to the temperature. In general, casual riders ride about twice as long as members. In turn, members ride much more often than casual riders.
+In contrast, casual riders experience variations in ride time during spring, likely due to temperature changes. Generally, casual riders have about twice the ride time of members, while members tend to ride much more frequently than casuals. This suggests that members primarily use the bikes for commuting, whereas casual riders use them for leisure purposes. 
 
-Perhaps members use the bikes for commuting and casual riders use the bikes for leisure purposes.
-
-However, to better understand the differences, one can analyze the start and destination stations.
-Let's check which stations are used the most.
+However, to better understand the differences between these two groups, we need to analyze the start and destination stations."
 
 <img width="1001" alt="image" src="https://github.com/user-attachments/assets/68928be2-b553-4771-ad9f-fb1edc402469">
 
-The analysis of the start and destination stations supports my assumption. Members often started their rides from residential areas, universities, schools, banks, factories, and railway stations. Casual riders, on the other hand, chose to start from recreational areas such as parks, ports, aquariums, beaches, and museums. The same trend is observed in the destination stations.
+"The analysis of the start and end stations shows that members often begin their rides in residential areas, universities, schools, banks, factories, and railway stations. Casual riders, on the other hand, tend to start from recreational areas such as parks, ports, aquariums, beaches, and museums. This trend is also reflected in the destination stations. 
 
-So I come to the conclusion that members largely use the bikes for their daily commute, while casual riders mostly use them for leisure activities.
+Based on this, I conclude that members primarily use the bikes for their daily commute, while casual riders mostly use them for leisure activities."
 
 ### Summary:
 
