@@ -161,7 +161,7 @@ SQL Query: [Data Exploration](https://github.com/S-a-m-K/cyclistic_case_study/bl
 12. Which members use which station and how many times
 <img width="586" alt="image" src="https://github.com/user-attachments/assets/02d4a3dd-ecf1-42d5-809d-31a5a5decbcc">
 
-13. How many times members and casuals rent a bike
+13. How many times members and casual riders rent a bike
 <img width="386" alt="image" src="https://github.com/user-attachments/assets/1cd3c501-a96b-4ea0-8032-dd759cfbb0c8">
 
 ### Data cleansing
@@ -219,11 +219,11 @@ For the analysis process "Share" I chose [Tableau](https://public.tableau.com/vi
 
 <img width="998" alt="image" src="https://github.com/user-attachments/assets/d0489f03-72e5-45df-93a6-5c340b6e9029">
 
-Over 300,000 users who used the bikes in these five months are casuals. Compared to the total number of members, that's almost a third.
+Over 300,000 users who used the bikes in these five months are casual riders. Compared to the total number of members, that's almost a third.
 
 <img width="989" alt="image" src="https://github.com/user-attachments/assets/5025fb27-6e91-40d9-94cc-ccc3dc2bd0d1">
 
-Over 110,000 of the casuals use classic bikes. Over 200,000 use electric bikes. Compared to the members, this amounts to almost a quarter for classic bikes. For electric bikes, it is almost 30 percent of the total users. In contrast, docked bikes are only used by casuals.
+Over 110,000 of the casual riders use classic bikes. Over 200,000 use electric bikes. Compared to the members, this amounts to almost a quarter for classic bikes. For electric bikes, it is almost 30 percent of the total users. In contrast, docked bikes are only used by casual riders.
 
 Next, let's take a look at the number of trips by daytime.
 
@@ -245,26 +245,26 @@ Now, let's look at the average ride duration and see if we can find any differen
 
 <img width="999" alt="image" src="https://github.com/user-attachments/assets/35824339-e871-4e8e-81f9-a90730ce95bc">
 
-When it comes to the average driving time per hour, members drive for less time than casual drivers. For members, it is an average of 10 to 11 minutes. For casuals, the average driving time is 20 minutes.
+When it comes to the average driving time per hour, members drive for less time than casual drivers. For members, it is an average of 10 to 11 minutes. For casual riders, the average driving time is 20 minutes.
 
 <img width="990" alt="image" src="https://github.com/user-attachments/assets/dc992fae-9a66-4d21-a99d-93c893202151">
 
-In the weekday view, the members always show the same driving behavior. The driving time from Monday to Sunday is on average 10-12 minutes. For the casuals, however, the driving length increases more and more towards the weekend.
+In the weekday view, the members always show the same driving behavior. The driving time from Monday to Sunday is on average 10-12 minutes. For the casual riders, however, the driving length increases more and more towards the weekend.
 
 <img width="985" alt="image" src="https://github.com/user-attachments/assets/e698e4c2-611a-43c2-931a-a310f29e7219">
 
-Note that the average ride time of members does not change throughout the month. For casuals, ride time changes in spring, which is probably due to the temperature. In general, casual riders ride about twice as long as members. In turn, members ride much more often than casuals.
+Note that the average ride time of members does not change throughout the month. For casual riders, ride time changes in spring, which is probably due to the temperature. In general, casual riders ride about twice as long as members. In turn, members ride much more often than casual riders.
 
-Perhaps members use the bikes for commuting and casuals use the bikes for leisure purposes.
+Perhaps members use the bikes for commuting and casual riders use the bikes for leisure purposes.
 
 However, to better understand the differences, one can analyze the start and destination stations.
 Let's check which stations are used the most.
 
 <img width="1001" alt="image" src="https://github.com/user-attachments/assets/68928be2-b553-4771-ad9f-fb1edc402469">
 
-The analysis of the start and destination stations supports my assumption. Members often started their rides from residential areas, universities, schools, banks, factories, and railway stations. Casuals, on the other hand, chose to start from recreational areas such as parks, ports, aquariums, beaches, and museums. The same trend is observed in the destination stations.
+The analysis of the start and destination stations supports my assumption. Members often started their rides from residential areas, universities, schools, banks, factories, and railway stations. Casual riders, on the other hand, chose to start from recreational areas such as parks, ports, aquariums, beaches, and museums. The same trend is observed in the destination stations.
 
-So I come to the conclusion that members largely use the bikes for their daily commute, while casuals mostly use them for leisure activities.
+So I come to the conclusion that members largely use the bikes for their daily commute, while casual riders mostly use them for leisure activities.
 
 ### Summary:
 
@@ -274,15 +274,15 @@ So I come to the conclusion that members largely use the bikes for their daily c
 
 - Members often use stations near residential and commercial areas
 
-- Casuals use the bike sharing company more often on weekends and more in the spring than in the winter
+- Casual riders use the bike sharing company more often on weekends and more in the spring than in the winter
 
-- Casuals ride less frequently but for longer distances
+- Casual riders ride less frequently but for longer distances
 
-- Casuals often use recreational areas as starting and ending stations
+- Casual riders often use recreational areas as starting and ending stations
 
 # **Act**
 
-Now that the differences between members and casual riders have been clearly identified and we now know that casuals use the bikes more for leisure activities, it is important to consider how to design a membership specifically for casual users.
+Now that the differences between members and casual riders have been clearly identified and we now know that casual riders use the bikes more for leisure activities, it is important to consider how to design a membership specifically for casual users.
 
 For example, this could look like this:
 
