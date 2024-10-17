@@ -215,17 +215,17 @@ To answer this question, it needs to understand riding habits.
 
 ### Data Visualization 
 
-For the analysis process "Share" I chose [Tableau](https://public.tableau.com/views/CyclisticCaseStudy_17246685586230/CyclisiticCaseStudy?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+For the data visualization process "Share" I use [Tableau](https://public.tableau.com/views/CyclisticCaseStudy_17246685586230/CyclisiticCaseStudy?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 <img width="998" alt="image" src="https://github.com/user-attachments/assets/d0489f03-72e5-45df-93a6-5c340b6e9029">
 
-Over 300,000 users who used the bikes in these five months are casual riders. Compared to the total number of members, that's almost a third.
+Over 300,000 customers who used the bikes in these five months are casual riders. In comparison to the total number of members, this represents nearly a third.
 
 <img width="989" alt="image" src="https://github.com/user-attachments/assets/5025fb27-6e91-40d9-94cc-ccc3dc2bd0d1">
 
-Over 110,000 of the casual riders use classic bikes. Over 200,000 use electric bikes. Compared to the members, this amounts to almost a quarter for classic bikes. For electric bikes, it is almost 30 percent of the total users. In contrast, docked bikes are only used by casual riders.
+Over 110,000 casual riders use classic bikes, while over 200,000 use electric bikes. Compared to members, this represents almost a quarter of the classic bike usage. For electric bikes, it accounts for nearly 30 percent of the total users. In contrast, docked bikes are exclusively used by casual riders. 
 
-Next, let's take a look at the number of trips by daytime.
+As the next step, let's examine the number of trips made during the daytime.
 
 <img width="991" alt="image" src="https://github.com/user-attachments/assets/164196ff-6ac7-4f7b-8b8d-a7efa25c687f">
 
