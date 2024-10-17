@@ -265,7 +265,7 @@ Based on this, I conclude that members primarily use the bikes for their daily c
 
 ### Summary:
 
-- Members prefer to use the bikes on weekdays during rush hour. That is, between 7-8 a.m. and 4-6 p.m.
+- Members prefer to use the bikes on weekdays during rush hour. That is between 7-8 a.m. and 4-6 p.m.
 
 - Members ride more frequently but for shorter distances
 
