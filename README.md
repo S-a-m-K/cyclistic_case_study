@@ -1,3 +1,5 @@
+![Banner](https://github.com/S-a-m-K/cyclistic_case_study/blob/main/cyclistic.png)
+
 <h1>Google Data Analytics: Cyclistic Case Study</h1> 
 
 Course: [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone)
