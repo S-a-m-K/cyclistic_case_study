@@ -11,7 +11,7 @@ Course: [Google Data Analytics Capstone: Complete a Case Study](https://www.cour
 
 # **Introduction**
 
-In this case study, I work as a junior data analyst with the marketing team at Cyclistic, a bicycle company in Chicago. Marketing leadership wants to maximize annual memberships, so the team wants to understand the differences in usage between casual riders and annual members. Based on these insights, the team will develop a new marketing strategy to convert casual riders into annual members.
+As a junior data analyst at Cyclistic, a bike-sharing company based in Chicago, I am collaborating with the marketing team to increase the number of annual memberships. To achieve this goal, the team seeks to understand the differences in riding patterns between casual users and annual members. Leveraging these insights, the marketing team will craft a strategy aimed at converting casual riders into loyal annual subscribers.
 
 ---
 
@@ -58,28 +58,26 @@ In this case study, I work as a junior data analyst with the marketing team at C
 
 ### **Buisness Task**
 
-Analyze Cyclistic's data to identify usage differences between casual riders and annual members. Based on these findings, make a general recommendation on how these trends could influence Cyclistic's marketing strategy to convert casual riders into members.
+Analyze Cyclistic's data to uncover differences in usage patterns between casual riders and annual members. Based on the insights gained, provide recommendations on how these trends can shape Cyclistic's marketing strategy to effectively convert casual riders into annual members.
 
 ### **Analysis Questions**
 
-Three questions are relevant to the future marketing program:
-1. How does the use of Cyclistic differ between annual members and casual riders?
+Three key questions will guide the development of Cyclistic's future marketing program:
+1. How does the usage of Cyclistic differ between annual members and casual riders?
 2. Why should casual riders purchase a Cyclistic annual membership?
 3. How can Cyclistic use digital media to encourage casual riders to join?
 
-Mrs. Moreno tasked me with answering the first question:
-How does the use of Cyclistic differ between annual members and casual riders?
+Mrs. Moreno assigned me to address the first question: 
+How does the usage of Cyclistic differ between annual members and casual riders?
 
 # **Prepare**
 
 
 ### **Data Source**
 
-This historical data is from a cycling company. The data sets have a different name because Cyclistic is a fictitious company. The datas sets are appropriate for the purposes of this case study and allow to answer the company-related questions.
+The data used in this case study is from a cycling company. Although the data sets have different names, Cyclistic is a fictitious company. The data is well-suited for the case study's objectives and enables the analysis needed to address company-related questions.
 
-This is public data, which can be used to find out how different types of customers use Cyclistic's bikes.
-
-For privacy reasons any of the customers' personal data cant be used. That means that it is not possible to link single ticket purchases to credit card numbers to determine whether occasional riders live in Cyclistic's catchment area or have purchased multiple single trips.
+This publicly available data provides insights into how various customer segments use Cyclistic's bikes. However, to protect customer privacy, personal information cannot be used. As a result, it is not possible to link individual ticket purchases to credit card numbers to determine if occasional riders live within Cyclistic's service area or have made multiple single-trip purchases.
 
 **Source**: Data provided by Motivate International Inc
 
@@ -113,8 +111,7 @@ For privacy reasons any of the customers' personal data cant be used. That means
 
 # **Process**
 
-
-Since the data sets contains several million rows, it is important to use a platform that supports large amounts of data. For this purpose, I used BigQuery to combine the different data sets and cleanse them.
+Given that the data sets contain several million rows, it's crucial to use a platform that can handle large volumes of data efficiently. For this purpose, I utilized BigQuery to merge the various data sets and perform data cleansing.
 
 ### **Combining the Data**
 
