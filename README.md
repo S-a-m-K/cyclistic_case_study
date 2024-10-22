@@ -18,8 +18,8 @@ As a junior data analyst at Cyclistic, a bike-sharing company based in Chicago, 
 #### Table of Content
 - [Introduction](#Introduction)
 - [Ask](#Ask)
-  - [Stakeholder](#Stakeholder)
   - [Buisness Task](#Buisness-Task)
+  - [Stakeholder](#Stakeholder)
   - [Analysis Questions](#Analysis-Questions)
 - [Prepare](#Prepare)
   - [Data Source](#Data-Source)
@@ -43,6 +43,14 @@ As a junior data analyst at Cyclistic, a bike-sharing company based in Chicago, 
 
 </div>
 
+### **Buisness Task**
+
+Analyze Cyclistic's data to uncover differences in usage patterns between casual riders and annual members. Based on the insights gained, provide recommendations on how these trends can shape Cyclistic's marketing strategy to effectively convert casual riders into annual members.
+
+<div style="margin-bottom: 40px;">
+
+</div>
+
 ### **Stakeholder** 
 
 
@@ -55,10 +63,6 @@ As a junior data analyst at Cyclistic, a bike-sharing company based in Chicago, 
 <div style="margin-bottom: 40px;">
 
 </div>
-
-### **Buisness Task**
-
-Analyze Cyclistic's data to uncover differences in usage patterns between casual riders and annual members. Based on the insights gained, provide recommendations on how these trends can shape Cyclistic's marketing strategy to effectively convert casual riders into annual members.
 
 ### **Analysis Questions**
 
