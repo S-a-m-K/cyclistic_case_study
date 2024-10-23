@@ -110,55 +110,87 @@ This publicly available data provides insights into how various customer segment
 
 Given that the data sets contain several million rows, it's crucial to use a platform that can handle large volumes of data efficiently. For this purpose, I utilized BigQuery to merge the various data sets and perform data cleansing.
 
+<br>
+
 ### **Combining the Data**
 
 SQL Query: [Data Combining](https://github.com/S-a-m-K/cyclistic_case_study/blob/main/01.%20Data%20Combining.sql)
 
 5 CSV files are uploaded as tables to the cyclistic_trip_data dataset. Another table named cyclistic_combined_trip_data_01 is created which contains 1,247,820 rows of data for these 5 months.
 
+<br>
+
 ### Data Exploration
 SQL Query: [Data Exploration](https://github.com/S-a-m-K/cyclistic_case_study/blob/main/02.%20Data%20Exploration.sql)  
+
+<br>
 
 ### Observations:
 
 1. The table below shows all columns
 <img width="461" alt="image" src="https://github.com/user-attachments/assets/4aed62a4-39c4-4512-b037-14eb840db9e7">
 
+<br>
+
 2. Count number of rows
 <img width="187" alt="image" src="https://github.com/user-attachments/assets/dafa5d7e-75ad-4897-8ed4-132547194edb">
+
+<br>
 
 3. Check for numbers of null values and i find some in this 4 rows
 <img width="759" alt="image" src="https://github.com/user-attachments/assets/5ca625f7-0c31-4472-9c7f-9d1a4d1aa5ac">
 
+<br>
+
 4. Check for dublicate rows
 <img width="185" alt="image" src="https://github.com/user-attachments/assets/d7b6f8f1-f4f9-43f5-b305-61bdb2fb9d62">
+
+<br>
 
 5. Check if ride_id has a length of 16
 <img width="270" alt="image" src="https://github.com/user-attachments/assets/ec1e68ee-d52a-43f4-a3fa-27a038fce04e">
 
+<br>
+
 6. Check if timestamp values all have the same length
 <img width="270" alt="image" src="https://github.com/user-attachments/assets/214e3ab5-f50a-4381-a602-47f942dffd73">
+
+<br>
 
 7. Check for whitespace and find 161 rows
 <img width="1061" alt="image" src="https://github.com/user-attachments/assets/edb2bb1d-6782-4597-aad7-3c64cf5a2cc3">
 
+<br>
+
 8. Count number of trips per bike
 <img width="385" alt="image" src="https://github.com/user-attachments/assets/39138ab1-4d92-4571-b293-d45b7a1cbd20">
+
+<br>
 
 9. Total trips that last longer than a day
 <img width="185" alt="image" src="https://github.com/user-attachments/assets/febd5bb0-0b22-4210-8f8f-c089a9f9ed2b">
 
+<br>
+
 10. Total trips that last shorter than a minute
 <img width="185" alt="image" src="https://github.com/user-attachments/assets/0ee61cbe-3c4f-4e24-ad20-963b65b1d8f5">
+
+<br>
 
 11. Check if how many rows has all location details
 <img width="186" alt="image" src="https://github.com/user-attachments/assets/7dfb2e48-e4db-4d48-9a53-32491a8202de">
 
+<br>
+
 12. Which members use which station and how many times
 <img width="586" alt="image" src="https://github.com/user-attachments/assets/02d4a3dd-ecf1-42d5-809d-31a5a5decbcc">
 
+<br>
+
 13. How many times members and casual riders rent a bike
 <img width="386" alt="image" src="https://github.com/user-attachments/assets/1cd3c501-a96b-4ea0-8032-dd759cfbb0c8">
+
+<br>
 
 ### Data cleansing
 
@@ -169,6 +201,8 @@ SQL Query: [Create a new clean table](https://github.com/S-a-m-K/cyclistic_case_
 - Whitespace from start_station_name and end_station_name were deleted
 - Trips that lasted less than one minute or longer than one day were removed
 - A total of 315,415 rows were removed
+
+<br>
 
 # **Analysing**
 
