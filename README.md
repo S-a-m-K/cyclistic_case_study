@@ -129,16 +129,10 @@ SQL Query: [Data Exploration](https://github.com/S-a-m-K/cyclistic_case_study/bl
 
 1. The table below shows all columns
 <img width="461" alt="image" src="https://github.com/user-attachments/assets/4aed62a4-39c4-4512-b037-14eb840db9e7">
-
-
-<br>
-
+<br><br>
 2. Count number of rows
 <img width="187" alt="image" src="https://github.com/user-attachments/assets/dafa5d7e-75ad-4897-8ed4-132547194edb">
-
-
-<br>
-
+<br><br>
 3. Check for numbers of null values and i find some in this 4 rows
 <img width="759" alt="image" src="https://github.com/user-attachments/assets/5ca625f7-0c31-4472-9c7f-9d1a4d1aa5ac">
 
