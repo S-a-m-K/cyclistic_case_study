@@ -43,6 +43,8 @@ As a junior data analyst at Cyclistic, a bike-sharing company based in Chicago, 
 
 Analyze Cyclistic's data to uncover differences in usage patterns between casual riders and annual members. Based on the insights gained, provide recommendations on how these trends can shape Cyclistic's marketing strategy to effectively convert casual riders into annual members.
 
+<br>
+
 ### **Stakeholder** 
 
 
@@ -51,6 +53,8 @@ Analyze Cyclistic's data to uncover differences in usage patterns between casual
 **Cyclist Marketing Analytics Team**: Data analysis professionals.
 
 **Cyclist Leadership Team**: Decides whether to approve the recommended marketing program.
+
+<br>
 
 ### **Analysis Questions**
 
