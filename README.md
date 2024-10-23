@@ -190,7 +190,7 @@ SQL Query: [Data Exploration](https://github.com/S-a-m-K/cyclistic_case_study/bl
 13. How many times members and casual riders rent a bike
 <img width="386" alt="image" src="https://github.com/user-attachments/assets/1cd3c501-a96b-4ea0-8032-dd759cfbb0c8">
 
-<br>
+<br><br>
 
 ### Data cleansing
 
