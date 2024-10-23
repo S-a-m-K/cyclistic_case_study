@@ -39,17 +39,9 @@ As a junior data analyst at Cyclistic, a bike-sharing company based in Chicago, 
 
 # **Ask**
 
-<div style="margin-bottom: 40px;">
-
-</div>
-
 ### **Buisness Task**
 
 Analyze Cyclistic's data to uncover differences in usage patterns between casual riders and annual members. Based on the insights gained, provide recommendations on how these trends can shape Cyclistic's marketing strategy to effectively convert casual riders into annual members.
-
-<div style="margin-bottom: 40px;">
-
-</div>
 
 ### **Stakeholder** 
 
@@ -59,10 +51,6 @@ Analyze Cyclistic's data to uncover differences in usage patterns between casual
 **Cyclist Marketing Analytics Team**: Data analysis professionals.
 
 **Cyclist Leadership Team**: Decides whether to approve the recommended marketing program.
-
-<div style="margin-bottom: 40px;">
-
-</div>
 
 ### **Analysis Questions**
 
@@ -74,6 +62,8 @@ Three key questions will guide the development of Cyclistic's future marketing p
 Mrs. Moreno assigned me to address the first question: 
 How does the usage of Cyclistic differ between annual members and casual riders?
 
+<br>
+
 # **Prepare**
 
 
@@ -83,6 +73,8 @@ The data used in this case study is from a cycling company. Although the data se
 
 This publicly available data provides insights into how various customer segments use Cyclistic's bikes. However, to protect customer privacy, personal information cannot be used. As a result, it is not possible to link individual ticket purchases to credit card numbers to determine if occasional riders live within Cyclistic's service area or have made multiple single-trip purchases.
 
+<br>
+
 **Source**: Data provided by Motivate International Inc
 
 **Type**: CSV
@@ -91,9 +83,7 @@ This publicly available data provides insights into how various customer segment
 
 **Duration**: December 2022 - April 2023
 
-<div style="margin-bottom: 40px;">
-
-</div>
+<br>
 
 ### **Confirmation of the ROCCC-Process**
 
@@ -109,9 +99,7 @@ This publicly available data provides insights into how various customer segment
 
 * **License**: [data license agreement](https://divvybikes.com/data-license-agreement): The data set does not contain any personal data. There are no data protection concerns.
 
-<div style="margin-bottom: 40px;">
-
-</div>
+<br>
 
 # **Process**
 
