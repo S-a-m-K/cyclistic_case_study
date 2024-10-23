@@ -8,6 +8,7 @@ Course: [Google Data Analytics Capstone: Complete a Case Study](https://www.cour
 **Author: Samuel Kleger**  
 **Date: 2024-08-16**
 
+<br>
 
 # **Introduction**
 
