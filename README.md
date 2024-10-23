@@ -217,6 +217,8 @@ To answer this question, it needs to understand riding habits.
 - Where does the trip end?
 <img width="880" alt="image" src="https://github.com/user-attachments/assets/5531d1c7-1b35-43df-9949-9fa68fdd969a">
 
+<br><br>
+
 # **Share**
 
 ### Data Visualization 
@@ -269,6 +271,8 @@ The analysis of the start and end stations shows that members often begin their 
 
 Based on this, I conclude that members primarily use the bikes for their daily commute, while casual riders mostly use them for leisure activities.
 
+<br>
+
 ### Summary:
 
 - Members prefer to use the bikes on weekdays during rush hour. That is between 7-8 a.m. and 4-6 p.m.
@@ -282,6 +286,8 @@ Based on this, I conclude that members primarily use the bikes for their daily c
 - Casual riders ride less frequently but for longer distances
 
 - Casual riders often use recreational areas as starting and ending stations
+
+<br>
 
 # **Act**
 
